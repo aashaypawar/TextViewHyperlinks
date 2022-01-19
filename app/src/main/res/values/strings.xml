@@ -1,0 +1,4 @@
+<resources>
+    <string name="app_name">GFG | TextViewHyperlinks</string>
+    <string name="hyperlink">Open <a href="https://www.geeksforgeeks.org">GeeksforGeeks portal</a></string>
+</resources>
